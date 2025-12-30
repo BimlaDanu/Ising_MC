@@ -1,0 +1,2 @@
+- Python code to simulate Ising model
+- See file for `Ising_model_mc_simulation.ipynb'  for more  details of simulation
